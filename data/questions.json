@@ -53,34 +53,34 @@
   ],
   "scopes": {
     "aud01": [
-      "Lab Service"
+      "Archem"
     ],
     "aud02": [
-      "Boiler EO"
-    ],
-    "aud03": [
       "Chiller"
     ],
-    "aud04": [
+    "aud03": [
       "Workshop"
     ],
-    "aud05": [
+    "aud04": [
       "Genset"
     ],
-    "aud06": [
+    "aud05": [
       "WH EO FG"
     ],
-    "aud07": [
+    "aud06": [
       "WH Packaging"
     ],
-    "aud08": [
+    "aud07": [
       "WH Chemical"
     ],
-    "aud09": [
+    "aud08": [
       "Mixing Purification"
     ],
+    "aud09": [
+      "WH EO RM"
+    ],
     "aud10": [
-      "Archem"
+      "Lab Service"
     ]
   },
   "locations": [
