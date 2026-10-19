@@ -53,34 +53,34 @@
   ],
   "scopes": {
     "aud01": [
-      "Archem"
-    ],
-    "aud02": [
-      "Chiller"
-    ],
-    "aud03": [
       "Workshop"
     ],
-    "aud04": [
-      "Genset"
-    ],
-    "aud05": [
-      "WH EO FG"
-    ],
-    "aud06": [
-      "WH Packaging"
-    ],
-    "aud07": [
+    "aud02": [
       "WH Chemical"
     ],
+    "aud03": [
+      "Archem"
+    ],
+    "aud04": [
+      "Sterilization 3"
+    ],
+    "aud05": [
+      "WH Spice FG"
+    ],
+    "aud06": [
+      "Cleaning machine"
+    ],
+    "aud07": [
+      "Single Spice"
+    ],
     "aud08": [
-      "Mixing Purification"
+      "Hammermill 2"
     ],
     "aud09": [
-      "WH EO RM"
+      "Drying machine"
     ],
     "aud10": [
-      "Lab Service"
+      "Genset"
     ]
   },
   "locations": [
