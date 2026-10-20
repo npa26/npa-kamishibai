@@ -53,34 +53,34 @@
   ],
   "scopes": {
     "aud01": [
-      "Workshop"
-    ],
-    "aud02": [
       "WH Chemical"
     ],
-    "aud03": [
+    "aud02": [
       "Archem"
     ],
-    "aud04": [
+    "aud03": [
       "Sterilization 3"
     ],
-    "aud05": [
+    "aud04": [
       "WH Spice FG"
     ],
-    "aud06": [
+    "aud05": [
       "Cleaning machine"
     ],
-    "aud07": [
+    "aud06": [
       "Single Spice"
     ],
-    "aud08": [
+    "aud07": [
       "Hammermill 2"
     ],
+    "aud08": [
+      "Drying machine "
+    ],
     "aud09": [
-      "Drying machine"
+      "Genset "
     ],
     "aud10": [
-      "Genset"
+      "Sterilization 1"
     ]
   },
   "locations": [
