@@ -53,34 +53,34 @@
   ],
   "scopes": {
     "aud01": [
-      "WH Spice FG"
-    ],
-    "aud02": [
       "Cleaning machine"
     ],
-    "aud03": [
+    "aud02": [
       "Single Spice"
     ],
-    "aud04": [
+    "aud03": [
       "Hammermill 2"
     ],
-    "aud05": [
+    "aud04": [
       "Drying machine"
     ],
-    "aud06": [
+    "aud05": [
       "Genset"
     ],
-    "aud07": [
+    "aud06": [
       "Sterilization 1"
     ],
-    "aud08": [
+    "aud07": [
       "WH EO FG"
     ],
-    "aud09": [
+    "aud08": [
       "Grading"
     ],
-    "aud10": [
+    "aud09": [
       "Hammermill 1"
+    ],
+    "aud10": [
+      "Boiler Spice"
     ]
   },
   "locations": [
