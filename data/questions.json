@@ -52,35 +52,35 @@
     }
   ],
   "scopes": {
-    "aud01": [
-      "Single Spice"
-    ],
-    "aud02": [
+        "aud01": [
       "Hammermill 2"
     ],
-    "aud03": [
+    "aud02": [
       "Drying machine"
     ],
-    "aud04": [
+    "aud03": [
       "Genset"
     ],
-    "aud05": [
+    "aud04": [
       "Sterilization 1"
     ],
-    "aud06": [
+    "aud05": [
       "WH EO FG"
     ],
-    "aud07": [
+    "aud06": [
       "Grading"
     ],
-    "aud08": [
+    "aud07": [
       "Hammermill 1"
     ],
-    "aud09": [
+    "aud08": [
       "Boiler Spice"
     ],
-    "aud10": [
+    "aud09": [
       "Lab Service"
+    ],
+    "aud10": [
+      "WH Packaging"
     ]
   },
   "locations": [
