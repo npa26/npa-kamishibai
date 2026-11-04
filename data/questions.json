@@ -53,34 +53,34 @@
   ],
   "scopes": {
     "aud01": [
-      "Drying machine"
-    ],
-    "aud02": [
       "Genset"
     ],
-    "aud03": [
+    "aud02": [
       "Sterilization 1"
     ],
-    "aud04": [
+    "aud03": [
       "WH EO FG"
     ],
-    "aud05": [
+    "aud04": [
       "Grading"
     ],
-    "aud06": [
+    "aud05": [
       "Hammermill 1"
     ],
-    "aud07": [
+    "aud06": [
       "Boiler Spice"
     ],
-    "aud08": [
+    "aud07": [
       "Lab Service"
     ],
-    "aud09": [
+    "aud08": [
       "WH Packaging"
     ],
-    "aud10": [
+    "aud09": [
       "Maruroku"
+    ],
+    "aud10": [
+      "Mixing Purification"
     ]
   },
   "locations": [
