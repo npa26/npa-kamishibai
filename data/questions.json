@@ -51,36 +51,36 @@
       "email": "robert.dharmaputra@nekaboga.com"
     }
   ],
-  "scopes": {
+"scopes": {
     "aud01": [
-      "Genset"
-    ],
-    "aud02": [
       "Sterilization 1"
     ],
-    "aud03": [
+    "aud02": [
       "WH EO FG"
     ],
-    "aud04": [
+    "aud03": [
       "Grading"
     ],
-    "aud05": [
+    "aud04": [
       "Hammermill 1"
     ],
-    "aud06": [
+    "aud05": [
       "Boiler Spice"
     ],
-    "aud07": [
+    "aud06": [
       "Lab Service"
     ],
-    "aud08": [
+    "aud07": [
       "WH Packaging"
     ],
-    "aud09": [
+    "aud08": [
       "Maruroku"
     ],
-    "aud10": [
+    "aud09": [
       "Mixing Purification"
+    ],
+    "aud10": [
+      "Hammermill 3"
     ]
   },
   "locations": [
