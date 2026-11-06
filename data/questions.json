@@ -53,34 +53,34 @@
   ],
 "scopes": {
     "aud01": [
-      "Sterilization 1"
-    ],
-    "aud02": [
       "WH EO FG"
     ],
-    "aud03": [
+    "aud02": [
       "Grading"
     ],
-    "aud04": [
+    "aud03": [
       "Hammermill 1"
     ],
-    "aud05": [
+    "aud04": [
       "Boiler Spice"
     ],
-    "aud06": [
+    "aud05": [
       "Lab Service"
     ],
-    "aud07": [
+    "aud06": [
       "WH Packaging"
     ],
-    "aud08": [
+    "aud07": [
       "Maruroku"
     ],
-    "aud09": [
+    "aud08": [
       "Mixing Purification"
     ],
-    "aud10": [
+    "aud09": [
       "Hammermill 3"
+    ],
+    "aud10": [
+      "Sterilization 2"
     ]
   },
   "locations": [
