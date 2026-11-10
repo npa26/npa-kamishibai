@@ -52,35 +52,35 @@
     }
   ],
 "scopes": {
-    "aud01": [
-      "Grading"
-    ],
-    "aud02": [
+     "aud01": [
       "Hammermill 1"
     ],
-    "aud03": [
+    "aud02": [
       "Boiler Spice"
     ],
-    "aud04": [
+    "aud03": [
       "Lab Service"
     ],
-    "aud05": [
+    "aud04": [
       "WH Packaging"
     ],
-    "aud06": [
+    "aud05": [
       "Maruroku"
     ],
-    "aud07": [
+    "aud06": [
       "Mixing Purification"
     ],
-    "aud08": [
+    "aud07": [
       "Hammermill 3"
     ],
-    "aud09": [
+    "aud08": [
       "Sterilization 2"
     ],
+    "aud09": [
+      "Sortir Ibu-Ibu"
+    ],
     "aud10": [
-      "Sortir Ibu-Ibu "
+      "Boiler EO"
     ]
   },
   "locations": [
