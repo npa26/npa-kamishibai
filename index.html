@@ -75,7 +75,7 @@ Terima kasih.</textarea>
 
   const store = { get k(){ return JSON.parse(localStorage.getItem('sched_cfg')||'{}'); }, set k(v){ localStorage.setItem('sched_cfg', JSON.stringify(v)); } };
   function getCfg(){ const k=store.k; return {
-    MAX_OFF_PER_DAY: Number(k.MAX_OFF_PER_DAY ?? 2),
+    MAX_OFF_PER_DAY: Number(k.MAX_OFF_PER_DAY ?? 1),
     ENABLE_FALLBACK_LOCATION: Boolean(k.ENABLE_FALLBACK_LOCATION ?? true),
     LOC_CAPACITY: Number(k.LOC_CAPACITY ?? 1),
     ALLOW_SOFT_OVERBOOK: Boolean(k.ALLOW_SOFT_OVERBOOK ?? false),
