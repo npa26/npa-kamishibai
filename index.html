@@ -83,7 +83,7 @@ Terima kasih.</textarea>
     tplBody: String(k.tplBody ?? 'Tanggal : {{tanggal}}\nLokasi  : {{lokasi_name}}\n\nInstruksi:\n- Datang ke lokasi sesuai jadwal + lakukan Scan QR code,\n- Jawab pertanyaan + foto lokasi & kirim jawaban ke Admin.\n\nTerima kasih.'),
   }; }
   function saveCfgFromUI(){ store.k = {
-    MAX_OFF_PER_DAY: Number(document.getElementById('optOff').value||2),
+    MAX_OFF_PER_DAY: Number(document.getElementById('optOff').value||1),
     ENABLE_FALLBACK_LOCATION: document.getElementById('optFallback').checked,
     LOC_CAPACITY: Number(document.getElementById('optCap').value||1),
     ALLOW_SOFT_OVERBOOK: document.getElementById('optOverbook').checked,
