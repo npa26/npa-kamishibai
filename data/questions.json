@@ -52,35 +52,35 @@
     }
   ],
 "scopes": {
-    "aud01": [
-      "WH Packaging"
-    ],
-    "aud02": [
+      "aud01": [
       "Maruroku"
     ],
-    "aud03": [
+    "aud02": [
       "Mixing Purification"
     ],
-    "aud04": [
+    "aud03": [
       "Hammermill 3"
     ],
-    "aud05": [
+    "aud04": [
       "Sterilization 2"
     ],
-    "aud06": [
+    "aud05": [
       "Sortir Ibu-Ibu"
     ],
-    "aud07": [
+    "aud06": [
       "Boiler EO"
     ],
-    "aud08": [
+    "aud07": [
       "WH EO RM"
     ],
-    "aud09": [
+    "aud08": [
       "QC Spice"
     ],
-    "aud10": [
+    "aud09": [
       "WH Spice RM"
+    ],
+    "aud10": [
+      "Chiller"
     ]
   },
   "locations": [
