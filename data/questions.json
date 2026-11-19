@@ -52,35 +52,35 @@
     }
   ],
 "scopes": {
-      "aud01": [
-      "Maruroku"
-    ],
-    "aud02": [
+    "aud01": [
       "Mixing Purification"
     ],
-    "aud03": [
+    "aud02": [
       "Hammermill 3"
     ],
-    "aud04": [
+    "aud03": [
       "Sterilization 2"
     ],
-    "aud05": [
+    "aud04": [
       "Sortir Ibu-Ibu"
     ],
-    "aud06": [
+    "aud05": [
       "Boiler EO"
     ],
-    "aud07": [
+    "aud06": [
       "WH EO RM"
     ],
-    "aud08": [
+    "aud07": [
       "QC Spice"
     ],
-    "aud09": [
+    "aud08": [
       "WH Spice RM"
     ],
-    "aud10": [
+    "aud09": [
       "Chiller"
+    ],
+    "aud10": [
+      "Sterilization 4"
     ]
   },
   "locations": [
