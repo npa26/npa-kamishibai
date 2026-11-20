@@ -53,34 +53,34 @@
   ],
 "scopes": {
     "aud01": [
-      "Mixing Purification"
-    ],
-    "aud02": [
       "Hammermill 3"
     ],
-    "aud03": [
+    "aud02": [
       "Sterilization 2"
     ],
-    "aud04": [
+    "aud03": [
       "Sortir Ibu-Ibu"
     ],
-    "aud05": [
+    "aud04": [
       "Boiler EO"
     ],
-    "aud06": [
+    "aud05": [
       "WH EO RM"
     ],
-    "aud07": [
+    "aud06": [
       "QC Spice"
     ],
-    "aud08": [
+    "aud07": [
       "WH Spice RM"
     ],
-    "aud09": [
+    "aud08": [
       "Chiller"
     ],
-    "aud10": [
+    "aud09": [
       "Sterilization 4"
+    ],
+    "aud10": [
+      "Workshop"
     ]
   },
   "locations": [
