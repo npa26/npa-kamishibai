@@ -53,34 +53,34 @@
   ],
 "scopes": {
     "aud01": [
-      "Sortir Ibu-Ibu"
-    ],
-    "aud02": [
       "Boiler EO"
     ],
-    "aud03": [
+    "aud02": [
       "WH EO RM"
     ],
-    "aud04": [
+    "aud03": [
       "QC Spice"
     ],
-    "aud05": [
+    "aud04": [
       "WH Spice RM"
     ],
-    "aud06": [
+    "aud05": [
       "Chiller"
     ],
-    "aud07": [
+    "aud06": [
       "Sterilization 4"
     ],
-    "aud08": [
+    "aud07": [
       "Workshop"
     ],
-    "aud09": [
+    "aud08": [
       "WH Chemical"
     ],
-    "aud10": [
+    "aud09": [
       "Archem"
+    ],
+    "aud10": [
+      "Sterilization 3"
     ]
   },
   "locations": [
