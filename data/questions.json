@@ -53,34 +53,34 @@
   ],
 "scopes": {
     "aud01": [
-      "Boiler EO"
-    ],
-    "aud02": [
       "WH EO RM"
     ],
-    "aud03": [
+    "aud02": [
       "QC Spice"
     ],
-    "aud04": [
+    "aud03": [
       "WH Spice RM"
     ],
-    "aud05": [
+    "aud04": [
       "Chiller"
     ],
-    "aud06": [
+    "aud05": [
       "Sterilization 4"
     ],
-    "aud07": [
+    "aud06": [
       "Workshop"
     ],
-    "aud08": [
+    "aud07": [
       "WH Chemical"
     ],
-    "aud09": [
+    "aud08": [
       "Archem"
     ],
-    "aud10": [
+    "aud09": [
       "Sterilization 3"
+    ],
+    "aud10": [
+      "WH Spice FG"
     ]
   },
   "locations": [
